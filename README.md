@@ -58,6 +58,7 @@
 ### 2026   
 - [1] **[TMM'26] |** Joint Attribute Graph Reasoning and Aggregation for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11373564)     
 - [2] **[AAAI'26] |** INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39181)
+- [3] **[ACL'26 Findings] |** CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2601.03728)
 
 ### 2025
 - [1] **[AAAI'25] |** Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11087)
