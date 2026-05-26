@@ -275,10 +275,11 @@
 - [1] **[ICCV'25] |** AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs. [[Paper]](https://arxiv.org/pdf/2503.22884)    
 
 ### Remote Sensing Retrieval
-- [1] **[IJCAI'25] |** PatternCIR Benchmark and TisCIR: Advancing Zero-Shot Composed Image Retrieval in Remote Sensing. [[Paper]](https://www.ijcai.org/proceedings/2025/171)        
-- [2] **[TGRS'25] |** Language-Empowered Conversion for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11010086&tag=1)    
-- [3] **[IGARSS'24] |** Composed Image Retrieval for Remote Sensing. [[Paper]](https://arxiv.org/abs/2405.15587)    
-- [4] **[TGRS'24] |** Scene Graph-Aware Hierarchical Fusion Network for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/document/10537211)
+- [1] **[Arxiv'26] |** Benchmarking Composed Image Retrieval for Applied Earth Observation [[Paper]](https://arxiv.org/pdf/2605.24442)
+- [2] **[IJCAI'25] |** PatternCIR Benchmark and TisCIR: Advancing Zero-Shot Composed Image Retrieval in Remote Sensing. [[Paper]](https://www.ijcai.org/proceedings/2025/171)        
+- [3] **[TGRS'25] |** Language-Empowered Conversion for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11010086&tag=1)    
+- [4] **[IGARSS'24] |** Composed Image Retrieval for Remote Sensing. [[Paper]](https://arxiv.org/abs/2405.15587)    
+- [5] **[TGRS'24] |** Scene Graph-Aware Hierarchical Fusion Network for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/document/10537211)
 
 ### Survey  
 - 🎯 **[TOIS'25] |** **A Comprehensive Survey on Composed Image Retrieval.** [[Paper]](https://arxiv.org/pdf/2502.18495)
