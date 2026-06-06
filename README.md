@@ -166,7 +166,6 @@
 
 ### 2026
 - [1] **[CVPR'26] |** Adapting In-context Generation for Enhanced Composed Image Retrieval. [[Paper]](https://cvpr.thecvf.com/virtual/2026/poster/39552)    
-- 
 
 ### 2023
 - [1] **[AAAI'23] |** Few-Shot Composition Learning for Image Retrieval with Prompt Tuning. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25597/25369)
@@ -197,8 +196,7 @@
 - [5] **[CVPR'26] |** Self-guided Semantic Inspection for Zero-Shot Composed Image Retrieval. [[Paper]](https://cvpr.thecvf.com/virtual/2026/poster/38299)
 - [6] **[CVPR'26] |** G-MIXER: Geodesic Mixup-based Implicit Semantic Expansion and Explicit Semantic Re-ranking for Zero-Shot Composed Image Retrieval. [[Paper]](https://cvpr.thecvf.com/virtual/2026/poster/37026)
 - [7] **[CVPR'26] |** STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://cvpr.thecvf.com/virtual/2026/poster/39753)
-- [8] **[CVPR'26] |** WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://cvpr.thecvf.com/virtual/2026/poster/37052)
-- 
+- [8] **[CVPR'26] |** WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://cvpr.thecvf.com/virtual/2026/poster/37052)    
 
 ### 2025   
 - [1] **[COLING'25] |** MLLM-I2W: Harnessing Multimodal Large Language Model for Zero-Shot Composed Image Retrieval. [[Paper]](https://aclanthology.org/2025.coling-main.125.pdf)
