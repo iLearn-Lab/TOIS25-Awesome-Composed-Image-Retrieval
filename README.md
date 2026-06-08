@@ -284,7 +284,7 @@
 ## 9. Others<a id="section9"></a>
 ### Person Retrieval
 - [1] **[NeurIPS'25] |** Automatic Synthetic Data and Fine-grained Adaptive Feature Alignment for Composed Person Retrieval. [[Paper]](https://arxiv.org/pdf/2311.16515)    
-- [2] **[Arxiv'24] |** Word4Per: Zero-shot Composed Person Retrieval. [[Paper]](https://arxiv.org/abs/2311.16515)
+- [2] **[Arxiv'24] |** Word4Per: Zero-shot Composed Person Retrieval. [[Paper]](https://arxiv.org/html/2311.16515v3)
 
 ### Composed Pose Retrieval  
 - [1] **[ICCV'25] |** AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs. [[Paper]](https://arxiv.org/pdf/2503.22884)    
