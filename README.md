@@ -211,7 +211,7 @@
 - [10] **[ICCV'25] |** An Efficient Post-hoc Framework for Reducing Task Discrepancy of Text Encoders for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2406.09188)
 - [11] **[ICCV'25] |** Zero-Shot Composed Image Retrieval via Dual-Stream Instruction-Aware Distillation. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1828)
 - [12] **[KDD'25] |*** Generative Thinking, Corrective Action: User-Friendly Composed Image Retrieval via Automatic Multi-Agent Collaboration. [[Paper]](https://dl.acm.org/doi/10.1145/3711896.3736982)        
-- [13] **[NeruIPS'25] |** Instance-Level Composed Image Retrieval. [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/119710)
+- [13] **[NeurIPS'25] |** Instance-Level Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2510.25387) [[Project Page]](https://vrg.fel.cvut.cz/icir/) [[Code]](https://github.com/billpsomas/icir) [[Dataset Browser]](https://vrg.fel.cvut.cz/icir/browser/)
 - [14] **[TPAMI'25] |** iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11098979)
 - [15] **[IJCNN'25] |** Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data. [[Paper]](https://arxiv.org/pdf/2504.00812)  
 
@@ -296,6 +296,10 @@
 - [4] **[IGARSS'24] |** Composed Image Retrieval for Remote Sensing. [[Paper]](https://arxiv.org/abs/2405.15587)    
 - [5] **[TGRS'24] |** Scene Graph-Aware Hierarchical Fusion Network for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/document/10537211)
 
+### Tools & Resources
+- [1] **CIR Datasets Browser** — browse 13 CIR benchmarks side by side (CIRR, FashionIQ, enhFashionIQ, CIRCO, LaSCo, GeneCIS, ImageNet-R, MiniDomainNet, NICO++, LTLL, PinPoint, IDMR, ConCon-Chi): sampled queries with their ground truth and the top results of text-only, image-only and composed retrieval, to inspect unimodal shortcuts and missing labels. [[Browser]](https://vrg.fel.cvut.cz/icir/datasets/)
+- [2] **i-CIR Dataset Browser** — all 202 instances of i-CIR with image queries, modification texts, positives and the visual, textual and composed hard negatives of every query. [[Browser]](https://vrg.fel.cvut.cz/icir/browser/)
+
 ### Survey  
 - 🎯 **[TOIS'25] |** **A Comprehensive Survey on Composed Image Retrieval.** [[Paper]](https://arxiv.org/pdf/2502.18495)
 - [2] **[Arxiv'25] |** Composed Multi-modal Retrieval: A Survey of Approaches and Applications. [[Paper]](https://arxiv.org/pdf/2503.01334)
@@ -336,7 +340,7 @@
 | Mini-DomainNet            |Clip+Paint+Image+Sketch | ~137K | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Domain Conversion |
 | NICO++                |Aut+Dim+Grass+Out+Rock+Water | ~80K | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Domain Conversion |
 | LTLL                |Today+Archive | 488 | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Instance Level Domain Conversion |
-| i-CIR                |Image+Text | ~750K | ~13.5K | Human Annotated | [Link](https://github.com/billpsomas/icir) | Art, Landmark, Fictional, Mobility, Fashion, Product, Household, Tech |
+| i-CIR                |Image+Text | ~750K | ~13.5K | Human Annotated | [Link](https://github.com/billpsomas/icir) · [Browser](https://vrg.fel.cvut.cz/icir/browser/) | Art, Landmark, Fictional, Mobility, Fashion, Product, Household, Tech |
 
 ---
 If you find this repository helpful, please consider citing our survey and giving this repo a ⭐.
