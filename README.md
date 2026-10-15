@@ -198,6 +198,7 @@
 - [7] **[CVPR'26] |** STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://cvpr.thecvf.com/virtual/2026/poster/39753)
 - [8] **[CVPR'26] |** WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://cvpr.thecvf.com/virtual/2026/poster/37052)    
 - [9] **[ECCV'26] |** FlowCIR: Semantic Transport via Flow Matching for Zero-Shot Composed Image Retrieval. [[Paper]](https://hkust-longgroup.github.io/FlowCIR/static/pdfs/flowcir_paper.pdf)
+- [10] **[ICML'26] |** FreeRet: MLLMs as Training-Free Retrievers. [[Paper]](https://arxiv.org/abs/2509.24621) [[Code]](https://github.com/MCG-NJU/FreeRet)
 
 ### 2025   
 - [1] **[COLING'25] |** MLLM-I2W: Harnessing Multimodal Large Language Model for Zero-Shot Composed Image Retrieval. [[Paper]](https://aclanthology.org/2025.coling-main.125.pdf)
